@@ -1,6 +1,0 @@
-created 3 services communication using RestTemplate
-
--database-->MongoDb and MySQl
--first connected 2 services communicate
--then 3 service communicate
- 
